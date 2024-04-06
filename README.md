@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Data Analyst
 ------------------------------
 
-I Love Data
+Data
 
 * 🌍  I'm based in Malang
 * ✉️  You can contact me at [andhitogalih@gmail.com](mailto:andhitogalih@gmail.com)
